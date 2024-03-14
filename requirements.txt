@@ -1,0 +1,13 @@
+numpy
+pandas
+tqdm
+pytorch::pytorch=1.7.0
+cudatoolkit=11.0
+open3d-admin::open3d
+scikit-learn
+mypy
+flake8
+yapf
+pyyaml
+addict
+plyfile
